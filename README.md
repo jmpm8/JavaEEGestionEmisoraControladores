@@ -1,4 +1,7 @@
 # 📻 Gestión de Emisora - Controladores Java
+<p align="center">
+  <img src="screenshot.png" alt="Captura del proyecto" width="600">
+</p>
 
 Este proyecto es un sistema desarrollado en **Java SE y Java EE** diseñado para gestionar la lógica de controladores en una emisora de radio. 
 Permite la administración eficiente de los grupos musicales.

@@ -1,0 +1,16 @@
+<Context>
+
+	<Resource name="jdbc/Emisora"
+			  auth="Container"
+			  type="javax.sql.DataSource"
+			  maxActive="15"
+			  maxIdle="3"
+			  maxWait="5000"
+			  username="root"
+			  password="admin123"
+			  driverClassName="com.mysql.jdbc.Driver"
+			  url="jdbc:mysql://localhost:3306/musicadb2"
+			  >
+	</Resource>
+
+</Context>
